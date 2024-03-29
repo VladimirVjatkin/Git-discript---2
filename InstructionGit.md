@@ -8,6 +8,7 @@ git config --global user.email "<адрес_почты@email.com>"
 git config --global user.name "<адрес_почты@email.com>"  
 git --version  - версия системы  
 
+
 ## 2. *Работа с терминалом в Git*  
 **clear** - очистить терминал  
 **Q** - выход из запущеной програмы (хотя обычно Сtrl C)  
