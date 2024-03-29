@@ -7,6 +7,8 @@
 git config --global user.email "<адрес_почты@email.com>"  
 git config --global user.name "<адрес_почты@email.com>"  
 git --version  - версия системы  
+Добавляем новую строку для ветки 001
+
 
 
 ## 2. *Работа с терминалом в Git*  
