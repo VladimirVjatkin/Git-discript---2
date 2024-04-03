@@ -97,4 +97,5 @@ _________________________
 
 
 ## 8. FORK - print screen
-![](Screenshot 2024-04-03.jpg)
+![](SH.jpg)
+
