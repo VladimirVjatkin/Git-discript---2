@@ -68,9 +68,9 @@ git **clean** - используется для удаления мусора и
 ### Если хотим разместить свой локальный проект на gihub.com надо организовать у себя на гитхабе новый репозиторий, а в локальном проекте выполнить по совету в гитхабе строки:
 ________________________
 ## например
-git remote add origin https://github.com/VladimirVjatkin/Test-3_2.git
-git branch -M main
-git push -u origin main
+git remote add origin https://github.com/VladimirVjatkin/Test-3_2.git  
+git branch -M main  
+git push -u origin main  
 
 проект связан с базой на гитхабе, теперь можно после изменения проекта его 
 толкнуть командой:
